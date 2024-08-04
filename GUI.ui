@@ -107,7 +107,7 @@
      </item>
     </layout>
    </widget>
-   <widget class="QLabel" name="title_label">
+   <widget class="QLabel" name="main_title_label">
     <property name="geometry">
      <rect>
       <x>150</x>
